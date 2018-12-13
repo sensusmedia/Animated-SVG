@@ -1,3 +1,3 @@
 # Animated-SVG
 
-Demo code for the animated svg using vivus.js
+Demo code for animated svg using vivus.js
